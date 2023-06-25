@@ -1,4 +1,5 @@
 {
   "collection": "files",
-  "item": "file"
+  "item": "file",
+  "port": 3000
 }
