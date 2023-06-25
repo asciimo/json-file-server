@@ -40,3 +40,15 @@ The endpoints would become:
 | ------------ | ----------------------------------------- |
 | /recipes     | returns a collection of all files (items) |
 | /recipe/<id> | returns a single file (item) with id <id> |
+
+Port is also configurable:
+
+```json
+{
+  "collection": "stories",
+  "item": "story",
+  "port": 2000
+}
+```
+
+The default port is 3000.
