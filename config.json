@@ -1,5 +1,5 @@
 {
-  "collection": "files",
-  "item": "file",
-  "port": 3000
+  "collection": "recipes",
+  "item": "recipe",
+  "port": 2000
 }
