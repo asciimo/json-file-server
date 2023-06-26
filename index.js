@@ -10,6 +10,7 @@ const config = JSON.parse(fs.readFileSync("config.json", "utf8"));
 
 const COLLECTION_ROUTE = config.collection || "files";
 const ITEM_ROUTE = config.item || "file";
+const PORT = config.port || 3000;
 
 fastify.log.warn(`Collection route: ${COLLECTION_ROUTE}`);
 fastify.log.warn(`Item route: ${ITEM_ROUTE}`);
@@ -43,7 +44,7 @@ fastify.get(`/${ITEM_ROUTE}/:id`, (req, reply) => {
 });
 
 // Run the server!
-fastify.listen({ port: 3000 }, (err, address) => {
+fastify.listen({ port: PORT }, (err, address) => {
   if (err) throw err;
   // Server is now listening on ${address}
 });
