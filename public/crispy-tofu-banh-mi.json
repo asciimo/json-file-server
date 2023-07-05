@@ -1,0 +1,159 @@
+{
+  "id": "a1b2c3d4-e5f6-g7h8-i9j0k1l2m3n4",
+  "title": "Crispy Tofu Banh Mi",
+  "slug": "crispy-tofu-banh-mi",
+  "packs": ["Vietnamese Delights"],
+  "status": "published",
+  "createdTimestamp": "1678921045",
+  "updatedTimestamp": "1678921045",
+  "publishedTimestamp": "1678921045",
+  "shortDescription": "Indulge in the perfect combination of crispy tofu, pickled vegetables, and flavorful condiments with this delicious banh mi sandwich.",
+  "fullDescription": "Indulge in the perfect combination of crispy tofu, pickled vegetables, and flavorful condiments with this delicious banh mi sandwich. A fusion of Vietnamese and international flavors.",
+  "quantity": "2 servings",
+  "tags": ["banh mi", "tofu", "Vietnamese cuisine"],
+  "photos": [
+    {
+      "url": "../images/crispy-tofu-banh-mi.jpg",
+      "title": "crispy tofu banh mi",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Delicious banh mi sandwich",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Flavorful tofu banh mi",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Crunchy banh mi sandwich",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Tasty tofu banh mi",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Vibrant banh mi sandwich",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the crispy tofu",
+      "ingredients": [
+        {
+          "name": "extra-firm tofu",
+          "amount": "1 block",
+          "preparation": "sliced into 1/2-inch thick pieces"
+        },
+        {
+          "name": "soy sauce",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "rice vinegar",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "cornstarch",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "vegetable oil",
+          "amount": "2 tablespoons"
+        }
+      ]
+    },
+    {
+      "label": "For the pickled vegetables",
+      "ingredients": [
+        {
+          "name": "carrot",
+          "amount": "1",
+          "preparation": "julienned"
+        },
+        {
+          "name": "daikon radish",
+          "amount": "1/2",
+          "preparation": "julienned"
+        },
+        {
+          "name": "rice vinegar",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "sugar",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "1/2 teaspoon"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the crispy tofu",
+      "instructions": [
+        "In a bowl, whisk together soy sauce and rice vinegar.",
+        "Add the tofu slices to the bowl and marinate for 15 minutes.",
+        "Remove the tofu from the marinade and coat each slice with cornstarch.",
+        "Heat vegetable oil in a skillet over medium heat.",
+        "Add the tofu slices to the skillet and cook until crispy and golden brown on both sides.",
+        "Transfer the tofu to a paper towel-lined plate to drain excess oil."
+      ]
+    },
+    {
+      "label": "For the pickled vegetables",
+      "instructions": [
+        "In a small bowl, combine rice vinegar, sugar, and salt. Stir until the sugar and salt dissolve.",
+        "Add the julienned carrot and daikon radish to the bowl and toss to coat the vegetables in the pickling liquid.",
+        "Let the vegetables sit for at least 30 minutes, stirring occasionally.",
+        "Drain the pickled vegetables before assembling the banh mi sandwiches."
+      ]
+    },
+    {
+      "label": "Assembling the banh mi",
+      "instructions": [
+        "Slice a baguette lengthwise, leaving one side intact.",
+        "Spread a layer of mayonnaise on the inside of the baguette.",
+        "Arrange the crispy tofu slices on one side of the baguette.",
+        "Top the tofu with the pickled vegetables.",
+        "Add fresh cilantro leaves and sliced jalapenos for extra flavor and heat.",
+        "Close the baguette and press it lightly to compress the ingredients.",
+        "Slice the banh mi into individual servings and serve immediately."
+      ]
+    }
+  ],
+  "tips": [
+    "For extra flavor, marinate the tofu slices overnight in the soy sauce and rice vinegar mixture.",
+    "Feel free to add other condiments like sriracha, hoisin sauce, or soy sauce to customize the banh mi to your taste.",
+    "Toasted baguette adds a nice crunch to the sandwich. You can lightly toast it before assembling the banh mi.",
+    "Serve the banh mi with a side of Vietnamese-style pickled vegetables or a refreshing cucumber salad."
+  ]
+}

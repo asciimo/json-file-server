@@ -1,0 +1,174 @@
+{
+  "id": "d7e8f9g0-h1i2-j3k4l5m6n7o8",
+  "title": "Vegan Lentil Loaf",
+  "slug": "vegan-lentil-loaf",
+  "packs": ["Comfort Foods"],
+  "status": "published",
+  "createdTimestamp": "1629038400",
+  "updatedTimestamp": "1629038400",
+  "publishedTimestamp": "1629038400",
+  "shortDescription": "This hearty vegan lentil loaf is packed with flavor and makes a satisfying main dish. Perfect for special occasions or cozy dinners!",
+  "fullDescription": "This hearty vegan lentil loaf is packed with flavor and makes a satisfying main dish. Made with lentils, vegetables, and flavorful seasonings, it's a delicious and nutritious alternative to traditional meatloaf. Serve it with mashed potatoes and steamed vegetables for a complete meal that will impress vegans and non-vegans alike.",
+  "quantity": "6-8 servings",
+  "tags": ["lentil loaf", "vegan meatloaf", "plant-based", "comfort food"],
+  "photos": [
+    {
+      "url": "../images/vegan-lentil-loaf.jpg",
+      "title": "vegan lentil loaf",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Delicious vegan lentil loaf",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Flavorful vegan lentil loaf",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Vegan lentil loaf with gravy",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Tasty vegan lentil loaf",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Hearty vegan lentil loaf",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the lentil loaf",
+      "ingredients": [
+        {
+          "name": "green lentils",
+          "amount": "1 cup",
+          "preparation": "cooked"
+        },
+        {
+          "name": "onion",
+          "amount": "1",
+          "preparation": "finely chopped"
+        },
+        {
+          "name": "carrot",
+          "amount": "1",
+          "preparation": "grated"
+        },
+        {
+          "name": "celery stalks",
+          "amount": "2",
+          "preparation": "finely chopped"
+        },
+        {
+          "name": "garlic cloves",
+          "amount": "2",
+          "preparation": "minced"
+        },
+        {
+          "name": "flaxseed meal",
+          "amount": "2 tablespoons",
+          "preparation": "mixed with 6 tablespoons of water"
+        },
+        {
+          "name": "whole wheat bread crumbs",
+          "amount": "1 cup"
+        },
+        {
+          "name": "nutritional yeast",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "tomato paste",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "soy sauce",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "ground cumin",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "dried thyme",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "smoked paprika",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "salt",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "black pepper",
+          "amount": "1/4 teaspoon"
+        }
+      ]
+    },
+    {
+      "label": "For the glaze",
+      "ingredients": [
+        {
+          "name": "ketchup",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "pure maple syrup",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "apple cider vinegar",
+          "amount": "1 tablespoon"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the lentil loaf",
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "In a large bowl, combine cooked lentils, finely chopped onion, grated carrot, finely chopped celery stalks, minced garlic cloves, flaxseed meal mixture, whole wheat bread crumbs, nutritional yeast, tomato paste, soy sauce, ground cumin, dried thyme, smoked paprika, salt, and black pepper. Mix well.",
+        "Transfer the mixture to a greased loaf pan.",
+        "In a small bowl, whisk together ketchup, pure maple syrup, and apple cider vinegar to make the glaze.",
+        "Spread the glaze over the top of the lentil loaf.",
+        "Bake for 40-45 minutes or until the lentil loaf is firm and golden brown.",
+        "Remove from the oven and let it cool for a few minutes before slicing.",
+        "Serve warm and enjoy!"
+      ]
+    }
+  ],
+  "tips": [
+    "If you prefer a gluten-free version, use gluten-free bread crumbs or substitute with ground oats.",
+    "Leftover lentil loaf can be stored in the refrigerator for up to 3 days.",
+    "Serve with your favorite vegan gravy for added flavor."
+  ]
+}

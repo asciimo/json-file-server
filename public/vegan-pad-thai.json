@@ -1,0 +1,172 @@
+{
+  "id": "b3c4d5e6-f7g8-h9i0j1k2l3m4n5",
+  "title": "Vegan Pad Thai",
+  "slug": "vegan-pad-thai",
+  "packs": ["Asian Delights"],
+  "status": "published",
+  "createdTimestamp": "1597362845",
+  "updatedTimestamp": "1597362845",
+  "publishedTimestamp": "1597362845",
+  "shortDescription": "Indulge in the flavors of Thailand with this vegan version of the classic Pad Thai. A delicious and satisfying noodle dish!",
+  "fullDescription": "Indulge in the flavors of Thailand with this vegan version of the classic Pad Thai. Made with rice noodles, tofu, and a tangy sauce, it's a delicious and satisfying dish that can be customized with your favorite veggies. Top it off with crushed peanuts and fresh cilantro for an authentic touch.",
+  "quantity": "4 servings",
+  "tags": ["Pad Thai", "Thai cuisine", "noodles"],
+  "photos": [
+    {
+      "url": "../images/vegan-pad-thai.jpg",
+      "title": "vegan pad thai",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Delicious vegan pad thai",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Flavorful vegan pad thai",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Vegan pad thai noodles",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Tasty vegan pad thai",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Authentic vegan pad thai",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the Pad Thai",
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "amount": "8 ounces"
+        },
+        {
+          "name": "firm tofu",
+          "amount": "8 ounces",
+          "preparation": "drained and cubed"
+        },
+        {
+          "name": "vegetable oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "garlic cloves",
+          "amount": "3",
+          "preparation": "minced"
+        },
+        {
+          "name": "carrot",
+          "amount": "1",
+          "preparation": "julienned"
+        },
+        {
+          "name": "red bell pepper",
+          "amount": "1",
+          "preparation": "sliced"
+        },
+        {
+          "name": "green onions",
+          "amount": "4",
+          "preparation": "sliced"
+        },
+        {
+          "name": "bean sprouts",
+          "amount": "1 cup"
+        },
+        {
+          "name": "peanuts",
+          "amount": "1/4 cup",
+          "preparation": "crushed"
+        },
+        {
+          "name": "fresh cilantro",
+          "amount": "for garnish"
+        }
+      ]
+    },
+    {
+      "label": "For the Pad Thai Sauce",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": "3 tablespoons"
+        },
+        {
+          "name": "tamarind paste",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "brown sugar",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "lime juice",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "sriracha sauce",
+          "amount": "1 tablespoon",
+          "optional": true
+        },
+        {
+          "name": "water",
+          "amount": "2 tablespoons"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the Pad Thai",
+      "instructions": [
+        "Cook rice noodles according to the package instructions. Drain and set aside.",
+        "In a large skillet, heat vegetable oil over medium heat.",
+        "Add minced garlic and cubed tofu. Cook until tofu is golden brown and crispy.",
+        "Add julienned carrot, sliced red bell pepper, and sliced green onions. Stir-fry for a few minutes until the vegetables are tender-crisp.",
+        "Add cooked rice noodles and bean sprouts to the skillet. Stir well to combine.",
+        "Pour the Pad Thai sauce over the noodle mixture. Stir-fry for a couple of minutes until everything is coated in the sauce.",
+        "Remove from heat and garnish with crushed peanuts and fresh cilantro."
+      ]
+    },
+    {
+      "label": "For the Pad Thai Sauce",
+      "instructions": [
+        "In a small bowl, whisk together soy sauce, tamarind paste, brown sugar, lime juice, sriracha sauce (if using), and water until well combined."
+      ]
+    }
+  ],
+  "tips": [
+    "Feel free to add other vegetables like mushrooms or broccoli to customize your Pad Thai.",
+    "You can adjust the sweetness, tanginess, or spiciness of the sauce to suit your taste.",
+    "Garnish with lime wedges for an extra burst of citrus flavor."
+  ]
+}

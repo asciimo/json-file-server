@@ -1,0 +1,176 @@
+{
+  "id": "e0e1e2e3-e4e5-e6e7-e8e9-eaf1f2f3f4f5",
+  "title": "Spicy Seitan Stir-Fry",
+  "slug": "spicy-seitan-stir-fry",
+  "packs": ["Plant-Based Delights"],
+  "status": "published",
+  "createdTimestamp": "1678921045",
+  "updatedTimestamp": "1678921045",
+  "publishedTimestamp": "1678921045",
+  "shortDescription": "Enjoy a flavorful and spicy stir-fry with seitan, a delicious plant-based protein.",
+  "fullDescription": "Enjoy a flavorful and spicy stir-fry with seitan, a delicious plant-based protein. Packed with colorful vegetables and a tangy sauce.",
+  "quantity": "4 servings",
+  "tags": ["stir-fry", "seitan", "plant-based"],
+  "photos": [
+    {
+      "url": "../images/spicy-seitan-stir-fry.jpg",
+      "title": "spicy seitan stir-fry",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Colorful seitan stir-fry",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Delicious seitan stir-fry",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Tangy seitan stir-fry",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Spicy seitan stir-fry",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Flavorful seitan stir-fry",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the seitan",
+      "ingredients": [
+        {
+          "name": "seitan",
+          "amount": "1 pound",
+          "preparation": "sliced"
+        },
+        {
+          "name": "soy sauce",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "sriracha",
+          "amount": "1 tablespoon"
+        },
+        {
+          "name": "garlic powder",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "cornstarch",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "vegetable oil",
+          "amount": "2 tablespoons"
+        }
+      ]
+    },
+    {
+      "label": "For the stir-fry",
+      "ingredients": [
+        {
+          "name": "bell peppers",
+          "amount": "2",
+          "preparation": "sliced"
+        },
+        {
+          "name": "onion",
+          "amount": "1",
+          "preparation": "sliced"
+        },
+        {
+          "name": "broccoli florets",
+          "amount": "2 cups"
+        },
+        {
+          "name": "carrot",
+          "amount": "1",
+          "preparation": "julienned"
+        },
+        {
+          "name": "ginger",
+          "amount": "1 tablespoon",
+          "preparation": "minced"
+        },
+        {
+          "name": "garlic",
+          "amount": "3 cloves",
+          "preparation": "minced"
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "vegetable broth",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "soy sauce",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "sesame oil",
+          "amount": "1 tablespoon"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the seitan",
+      "instructions": [
+        "In a bowl, combine the sliced seitan, soy sauce, sriracha, and garlic powder.",
+        "Sprinkle cornstarch over the seitan and toss to coat evenly.",
+        "Heat vegetable oil in a skillet over medium-high heat.",
+        "Add the seitan to the skillet and cook until crispy, stirring occasionally.",
+        "Remove the seitan from the skillet and set aside."
+      ]
+    },
+    {
+      "label": "For the stir-fry",
+      "instructions": [
+        "In the same skillet, add the sliced bell peppers, onion, broccoli florets, julienned carrot, minced ginger, minced garlic, and red pepper flakes.",
+        "Stir-fry for a few minutes until the vegetables are crisp-tender.",
+        "In a small bowl, whisk together vegetable broth, soy sauce, and sesame oil.",
+        "Pour the sauce into the skillet with the vegetables and stir to coat.",
+        "Add the cooked seitan back to the skillet and toss to combine.",
+        "Cook for an additional 2-3 minutes to heat through.",
+        "Remove from heat and serve the spicy seitan stir-fry hot."
+      ]
+    }
+  ],
+  "tips": [
+    "Feel free to adjust the level of spiciness by increasing or decreasing the amount of sriracha and red pepper flakes.",
+    "Serve the stir-fry over cooked rice or noodles for a complete meal.",
+    "You can add other vegetables like snow peas or mushrooms for additional variety.",
+    "Garnish with chopped green onions and sesame seeds for added flavor and presentation."
+  ]
+}

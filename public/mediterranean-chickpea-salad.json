@@ -1,0 +1,155 @@
+{
+  "id": "7d8e9a1b-2c3d-4e5f-a6b7-c8d9e0f1a2b3",
+  "title": "Mediterranean Chickpea Salad",
+  "slug": "mediterranean-chickpea-salad",
+  "packs": ["Healthy Salads"],
+  "status": "published",
+  "createdTimestamp": "1656785032",
+  "updatedTimestamp": "1656785032",
+  "publishedTimestamp": "1656785032",
+  "shortDescription": "Enjoy the flavors of the Mediterranean with this refreshing and nutritious chickpea salad.",
+  "fullDescription": "Enjoy the flavors of the Mediterranean with this refreshing and nutritious chickpea salad. Packed with wholesome ingredients and a tangy dressing.",
+  "quantity": "4 servings",
+  "tags": ["salads", "Mediterranean", "healthy"],
+  "photos": [
+    {
+      "url": "../images/mediterranean-chickpea-salad.jpg",
+      "title": "mediterranean chickpea salad",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Colorful chickpea salad",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Wholesome chickpea salad",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Tangy chickpea salad",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Fresh chickpea salad",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Delicious chickpea salad",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the salad",
+      "ingredients": [
+        {
+          "name": "canned chickpeas",
+          "amount": "2 cans",
+          "preparation": "drained and rinsed"
+        },
+        {
+          "name": "cucumber",
+          "amount": "1",
+          "preparation": "diced"
+        },
+        {
+          "name": "tomato",
+          "amount": "2",
+          "preparation": "diced"
+        },
+        {
+          "name": "red onion",
+          "amount": "1/4 cup",
+          "preparation": "thinly sliced"
+        },
+        {
+          "name": "Kalamata olives",
+          "amount": "1/2 cup",
+          "preparation": "pitted and halved"
+        },
+        {
+          "name": "feta cheese",
+          "amount": "1/2 cup",
+          "preparation": "crumbled"
+        }
+      ]
+    },
+    {
+      "label": "For the dressing",
+      "ingredients": [
+        {
+          "name": "extra virgin olive oil",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "lemon juice",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "garlic",
+          "amount": "1 clove",
+          "preparation": "minced"
+        },
+        {
+          "name": "dried oregano",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the salad",
+      "instructions": [
+        "In a large bowl, combine the chickpeas, diced cucumber, diced tomato, sliced red onion, Kalamata olives, and crumbled feta cheese.",
+        "Toss gently to mix the ingredients well."
+      ]
+    },
+    {
+      "label": "For the dressing",
+      "instructions": [
+        "In a small bowl, whisk together the extra virgin olive oil, lemon juice, minced garlic, dried oregano, salt, and black pepper.",
+        "Drizzle the dressing over the salad and toss to coat evenly.",
+        "Adjust the seasoning if needed.",
+        "Refrigerate the salad for at least 30 minutes before serving to allow the flavors to meld."
+      ]
+    }
+  ],
+  "tips": [
+    "You can add chopped fresh herbs like parsley or mint for an extra burst of freshness.",
+    "Serve the salad chilled for maximum flavor.",
+    "Feel free to customize the salad with your favorite Mediterranean ingredients.",
+    "Leftovers can be stored in an airtight container in the refrigerator for up to 3 days."
+  ]
+}

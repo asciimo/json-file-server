@@ -1,0 +1,167 @@
+{
+  "id": "a1b2c3d4-e5f6-g7h8-i9j0k1l2m3n5",
+  "title": "Spicy Lentil Curry",
+  "slug": "spicy-lentil-curry",
+  "packs": ["Global Flavors"],
+  "status": "published",
+  "createdTimestamp": "1678921046",
+  "updatedTimestamp": "1678921046",
+  "publishedTimestamp": "1678921046",
+  "shortDescription": "Enjoy the flavors of India with this spicy and comforting lentil curry. Perfect for a hearty and satisfying meal.",
+  "fullDescription": "Enjoy the flavors of India with this spicy and comforting lentil curry. Made with a blend of aromatic spices and nutritious lentils, it's perfect for a hearty and satisfying meal. Serve it with steamed rice or naan bread.",
+  "quantity": "4 servings",
+  "tags": ["curry", "lentils", "Indian cuisine"],
+  "photos": [
+    {
+      "url": "../images/spicy-lentil-curry.jpg",
+      "title": "spicy lentil curry",
+      "width": "450",
+      "height": "450",
+      "credit": "Unsplash",
+      "type": "thumbnail-1x"
+    },
+    {
+      "url": "https://picsum.photos/300/200",
+      "title": "Delicious lentil curry",
+      "width": "600",
+      "height": "400",
+      "credit": "Unsplash",
+      "type": "thumbnail-2x"
+    },
+    {
+      "url": "https://picsum.photos/500/300",
+      "title": "Flavorful lentil curry",
+      "width": "1000",
+      "height": "600",
+      "credit": "Unsplash",
+      "type": "large-1x"
+    },
+    {
+      "url": "https://picsum.photos/800/600",
+      "title": "Spicy lentil curry",
+      "width": "1600",
+      "height": "1200",
+      "credit": "Unsplash",
+      "type": "large-2x"
+    },
+    {
+      "url": "https://picsum.photos/800/500",
+      "title": "Tasty lentil curry",
+      "width": "1600",
+      "height": "1000",
+      "credit": "Unsplash",
+      "type": "wide-1x"
+    },
+    {
+      "url": "https://picsum.photos/1200/800",
+      "title": "Authentic lentil curry",
+      "width": "2400",
+      "height": "1600",
+      "credit": "Unsplash",
+      "type": "wide-2x"
+    }
+  ],
+  "ingredientGroups": [
+    {
+      "label": "For the lentil curry",
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "amount": "1 cup"
+        },
+        {
+          "name": "onion",
+          "amount": "1",
+          "preparation": "finely chopped"
+        },
+        {
+          "name": "garlic cloves",
+          "amount": "3",
+          "preparation": "minced"
+        },
+        {
+          "name": "ginger",
+          "amount": "1 tablespoon",
+          "preparation": "grated"
+        },
+        {
+          "name": "tomatoes",
+          "amount": "2",
+          "preparation": "chopped"
+        },
+        {
+          "name": "coconut milk",
+          "amount": "1 can"
+        },
+        {
+          "name": "vegetable broth",
+          "amount": "2 cups"
+        },
+        {
+          "name": "curry powder",
+          "amount": "2 teaspoons"
+        },
+        {
+          "name": "ground cumin",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "ground turmeric",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": "1/4 teaspoon"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "fresh cilantro",
+          "amount": "for garnish"
+        }
+      ]
+    },
+    {
+      "label": "For serving",
+      "ingredients": [
+        {
+          "name": "steamed rice",
+          "amount": "4 cups"
+        },
+        {
+          "name": "naan bread",
+          "amount": "4 pieces"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "label": "For the lentil curry",
+      "instructions": [
+        "In a large pot, heat oil over medium heat.",
+        "Add chopped onion and cook until softened.",
+        "Add minced garlic and grated ginger, and cook for another minute.",
+        "Add chopped tomatoes, curry powder, ground cumin, ground turmeric, and cayenne pepper. Cook for a few minutes until the tomatoes start to break down.",
+        "Add red lentils, vegetable broth, and coconut milk. Stir well.",
+        "Bring the mixture to a boil, then reduce heat and simmer for about 20 minutes or until the lentils are tender.",
+        "Season with salt to taste.",
+        "Garnish with fresh cilantro."
+      ]
+    },
+    {
+      "label": "For serving",
+      "instructions": [
+        "Serve the lentil curry over steamed rice.",
+        "Serve with naan bread on the side."
+      ]
+    }
+  ],
+  "tips": [
+    "Feel free to adjust the spiciness of the curry by adding more or less cayenne pepper.",
+    "You can add vegetables like spinach or bell peppers for extra nutrition.",
+    "Leftover curry can be refrigerated and enjoyed the next day. The flavors will meld together even more!"
+  ]
+}
