@@ -1,0 +1,37 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: EC2 Instance with Node.js App and Nginx
+
+Resources:
+  JSFSInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      SecurityGroups:
+        - !Ref JSFSSecurityGroup:
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          yum update -y
+          yum install -y nginx
+          curl -sL https://rpm.nodesource.com/setup_18.x | sudo bash -
+          yum install -y nodejs
+          git clone https://github.com/yourusername/your-node-app.git /var/www/node-app
+          cd /var/www/node-app
+          npm install
+          npm install pm2 -g
+          pm2 start index.js
+
+  JSFSSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Enable HTTP access
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 0.0.0.0/0
+
+Outputs:
+  InstanceId:
+    Description: ID of the EC2 instance
+    Value: !Ref JSFSInstance
