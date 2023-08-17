@@ -31,21 +31,26 @@ Resources:
           # Create an Nginx configuration to serve the Node.js app
           systemctl stop nginx
           echo '
-          server {
-              listen 80;
-              server_name _;
-              access_log /var/log/nginx/jfs.log
-              error_log /var/log/nginx/jfs-error.log warn
-              location / {
-                  proxy_pass http://127.0.0.1:2000;  
-                  proxy_http_version 1.1;
-                  proxy_set_header Upgrade $http_upgrade;
-                  proxy_set_header Connection 'upgrade';
-                  proxy_set_header Host $host;
-                  proxy_cache_bypass $http_upgrade;
+          events {
+              workder_connections 1024;
+          }
+          http {
+              server {
+                  listen 80;
+                  server_name localhost;
+                  access_log /var/log/nginx/jfs.log;
+                  error_log /var/log/nginx/jfs-error.log warn;
+                  location / {
+                      proxy_pass http://127.0.0.1:2000;  
+                      proxy_http_version 1.1;
+                      proxy_set_header Upgrade $http_upgrade;
+                      proxy_set_header Connection 'upgrade';
+                      proxy_set_header Host $host;
+                      proxy_cache_bypass $http_upgrade;
+                  }
               }
           }
-          ' > /etc/nginx.conf
+          ' > /etc/nginx/nginx.conf
 
           # Reload Nginx to apply the new configuration
           systemctl start nginx
