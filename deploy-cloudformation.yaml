@@ -1,31 +1,64 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: EC2 Instance with Node.js App and Nginx
+Description: EC2 Instance for JSON File Server with Node 18 and Nginx
 
 Resources:
-  JSFSInstance:
+  JFSInstance:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
       SecurityGroups:
-        - !Ref JSFSSecurityGroup:
+        - !Ref JFSSecurityGroup
+      ImageId: ami-04e35eeae7a7c5883
       UserData:
         Fn::Base64: !Sub |
           #!/bin/bash
           yum update -y
-          yum install -y nginx
+          yum install -y nginx git
           curl -sL https://rpm.nodesource.com/setup_18.x | sudo bash -
           yum install -y nodejs
-          git clone https://github.com/yourusername/your-node-app.git /var/www/node-app
-          cd /var/www/node-app
-          npm install
+          mkdir -p /var/www/
+          git clone https://github.com/asciimo/json-file-server.git /var/www/app
+          git -C /var/www/app checkout collection-endpoint
+          chown -R ec2-user:ec2-user /var/www/app
+          chmod 2775 /var/www
+          find /var/www -type d -exec chmod 2775 {} \;
+          find /var/www -type f -exec chmod 0664 {} \;
+          cd /var/www/app
           npm install pm2 -g
-          pm2 start index.js
+          sudo -u ec2-user npm install
+          sudo -u ec2-user pm2 start index.js
 
-  JSFSSecurityGroup:
+          # Create an Nginx configuration to serve the Node.js app
+          systemctl stop nginx
+          echo '
+          server {
+              listen 80;
+              server_name _;
+              access_log /var/log/nginx/jfs.log
+              error_log /var/log/nginx/jfs-error.log warn
+              location / {
+                  proxy_pass http://127.0.0.1:2000;  
+                  proxy_http_version 1.1;
+                  proxy_set_header Upgrade $http_upgrade;
+                  proxy_set_header Connection 'upgrade';
+                  proxy_set_header Host $host;
+                  proxy_cache_bypass $http_upgrade;
+              }
+          }
+          ' > /etc/nginx.conf
+
+          # Reload Nginx to apply the new configuration
+          systemctl start nginx
+
+  JFSSecurityGroup:
     Type: AWS::EC2::SecurityGroup
     Properties:
-      GroupDescription: Enable HTTP access
+      GroupDescription: Enable SSH and HTTP access
       SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
         - IpProtocol: tcp
           FromPort: 80
           ToPort: 80
@@ -34,4 +67,4 @@ Resources:
 Outputs:
   InstanceId:
     Description: ID of the EC2 instance
-    Value: !Ref JSFSInstance
+    Value: !Ref JFSInstance
