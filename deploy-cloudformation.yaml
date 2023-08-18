@@ -1,6 +1,14 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: EC2 Instance for JSON File Server with Node 18 and Nginx
 
+Parameters:
+  EIPAllocationId:
+    Description: Allocation Id of the Elastic IP to associate with the instance
+    Type: String
+  DDAPIKey:
+    Description: Datadog API key
+    Type: String
+
 Resources:
   JFSInstance:
     Type: AWS::EC2::Instance
@@ -12,6 +20,12 @@ Resources:
       UserData:
         Fn::Base64: !Sub |
           #!/bin/bash
+          DD_API_KEY=${DDAPIKey} \
+            DD_SITE="datadoghq.com" \
+            DD_APM_INSTRUMENTATION_ENABLED=host \
+            DD_LOGS_ENABLED=true \
+            DD_PROCESS_AGENT_ENABLED=true \
+            bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script_agent7.sh)"
           yum update -y
           yum install -y nginx git
           curl -sL https://rpm.nodesource.com/setup_18.x | sudo bash -
@@ -24,6 +38,11 @@ Resources:
           find /var/www -type d -exec chmod 2775 {} \;
           find /var/www -type f -exec chmod 0664 {} \;
           cd /var/www/app
+          export DD_LOGS_INJECTION=true
+          export DD_PROFILING_ENABLED=true
+          export DD_ENV=development
+          export DD_SERVICE=mock-api
+          export DD_VERSION=0.1.0
           npm install pm2 -g
           sudo -u ec2-user npm install
           sudo -u ec2-user pm2 start index.js
@@ -32,7 +51,7 @@ Resources:
           systemctl stop nginx
           echo '
           events {
-              workder_connections 1024;
+              worker_connections 1024;
           }
           http {
               server {
@@ -61,13 +80,15 @@ Resources:
       GroupDescription: Enable SSH and HTTP access
       SecurityGroupIngress:
         - IpProtocol: tcp
-          FromPort: 22
-          ToPort: 22
-          CidrIp: 0.0.0.0/0
-        - IpProtocol: tcp
           FromPort: 80
           ToPort: 80
           CidrIp: 0.0.0.0/0
+
+  EIPAssociation:
+    Type: AWS::EC2::EIPAssociation
+    Properties:
+      InstanceId: !Ref JFSInstance
+      AllocationId: !Ref EIPAllocationId
 
 Outputs:
   InstanceId:
