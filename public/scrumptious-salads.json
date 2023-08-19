@@ -3,12 +3,13 @@
   "title": "Scrumptious Salads",
   "slug": "scrumptious-salads",
   "status": "published",
+  "tier": "premium",
   "createdTimestamp": "1538932878",
   "updatedTimestamp": "1538932878",
-  "price": 299,
-  "shortDescription":"",
+  "shortDescription": "",
   "fullDescription": "",
-  "photos":[
+  "quantity": "4 servings",
+  "photos": [
     {
       "url": "https://picsum.photos/200/300",
       "title": "A steaming pile of fudgy potatoes",
@@ -58,60 +59,61 @@
       "type": "wide-2x"
     }
   ],
-  "recipes": [ {
-    "id":"fd51e6b1-4af1-4c36-b274-e7ac94abf5ac",
-    "title": "Vegan PhỞ Noodle Salad",
-    "slug": "vegan-pho-noodle-salad",
-    "packs": ["Scrumptious Salads"],
-    "status": "published",
-    "createdTimestamp": "1538932878",
-    "updatedTimestamp": "1538932878",
-    "shortDescription":"Thanks to this recipe from Real Food Really Fast, we’re savoring the tempting flavors of Vietnamese phở without slaving over a hot stove.",
-    "photos": ["../images/phoNoodleSalad.jpg"]
-  },
-  {
-    "id":"9f73fd52-5014-465d-9c28-9a95874ea95f",
-    "title": "Vegan Warm Kale Salad with Roasted Sweet Potatoes",
-    "slug": "vegan-warm-kale-salad-with-roasted-sweet-potatoes",
-    "packs": ["Scrumptious Salads"],
-    "status": "published",
-    "createdTimestamp": "1538932878",
-    "updatedTimestamp": "1538932878",
-    "shortDescription":"This kale salad features flavors of fall thanks to roasted sweet potatoes, cranberries, and a maple vinaigrette.",
-    "photos": ["../images/kaleSaladRoastedSweetPotatoes"]
-  },
-  {
-    "id":"440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
-    "title": "Sweet & Spicy Noodle Salad",
-    "slug": "sweet-spicy-noodle-salad",
-    "packs": ["Scrumptious Salads"],
-    "status": "published",
-    "createdTimestamp": "1538932878",
-    "updatedTimestamp": "1538932878",
-    "shortDescription":"Loaded with fresh, revitalizing ingredients that are sure to spice up your lunch, this healthy meal will leave your stomach satiated and your tastebuds in ecstasy.",
-    "photos": ["../images/sweetSpicyNoodleSalad"]
-  },
-  {
-    "id":"440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
-    "title": "Chimichurri Avocado Salad",
-    "slug": "chimichurri-avocado-salad",
-    "packs": ["Scrumptious Salads"],
-    "status": "published",
-    "createdTimestamp": "1538932878",
-    "updatedTimestamp": "1538932878",
-    "shortDescription":"Buttery avocado, fragrant chimichurri, and refreshingly juicy watermelon will leave you asking for seconds of this bright, verdant salad.",
-    "photos": ["../images/chimichurri-avocado-salad.jpg"]
-  },
-  {
-    "id":"440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
-    "title": "Cool Cucumber Salad with Red Onions",
-    "slug": "cool-Cucumber-salad-red-onions",
-    "packs": ["Scrumptious Salads"],
-    "status": "published",
-    "createdTimestamp": "1538932878",
-    "updatedTimestamp": "1538932878",
-    "shortDescription":"Our easy-to-make salad is a light and refreshing addition to your next potluck or picnic.",
-    "photos": ["../images/cucumber-salad.jpg"]
-  }
+  "recipes": [
+    {
+      "id": "fd51e6b1-4af1-4c36-b274-e7ac94abf5ac",
+      "title": "Vegan PhỞ Noodle Salad",
+      "slug": "vegan-pho-noodle-salad",
+      "packs": ["Scrumptious Salads"],
+      "status": "published",
+      "createdTimestamp": "1538932878",
+      "updatedTimestamp": "1538932878",
+      "shortDescription": "Thanks to this recipe from Real Food Really Fast, we’re savoring the tempting flavors of Vietnamese phở without slaving over a hot stove.",
+      "photos": ["../images/phoNoodleSalad.jpg"]
+    },
+    {
+      "id": "9f73fd52-5014-465d-9c28-9a95874ea95f",
+      "title": "Vegan Warm Kale Salad with Roasted Sweet Potatoes",
+      "slug": "vegan-warm-kale-salad-with-roasted-sweet-potatoes",
+      "packs": ["Scrumptious Salads"],
+      "status": "published",
+      "createdTimestamp": "1538932878",
+      "updatedTimestamp": "1538932878",
+      "shortDescription": "This kale salad features flavors of fall thanks to roasted sweet potatoes, cranberries, and a maple vinaigrette.",
+      "photos": ["../images/kaleSaladRoastedSweetPotatoes"]
+    },
+    {
+      "id": "440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
+      "title": "Sweet & Spicy Noodle Salad",
+      "slug": "sweet-spicy-noodle-salad",
+      "packs": ["Scrumptious Salads"],
+      "status": "published",
+      "createdTimestamp": "1538932878",
+      "updatedTimestamp": "1538932878",
+      "shortDescription": "Loaded with fresh, revitalizing ingredients that are sure to spice up your lunch, this healthy meal will leave your stomach satiated and your tastebuds in ecstasy.",
+      "photos": ["../images/sweetSpicyNoodleSalad"]
+    },
+    {
+      "id": "440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
+      "title": "Chimichurri Avocado Salad",
+      "slug": "chimichurri-avocado-salad",
+      "packs": ["Scrumptious Salads"],
+      "status": "published",
+      "createdTimestamp": "1538932878",
+      "updatedTimestamp": "1538932878",
+      "shortDescription": "Buttery avocado, fragrant chimichurri, and refreshingly juicy watermelon will leave you asking for seconds of this bright, verdant salad.",
+      "photos": ["../images/chimichurri-avocado-salad.jpg"]
+    },
+    {
+      "id": "440ada35-fcb7-4eea-b5c9-4b1b34234b9b",
+      "title": "Cool Cucumber Salad with Red Onions",
+      "slug": "cool-Cucumber-salad-red-onions",
+      "packs": ["Scrumptious Salads"],
+      "status": "published",
+      "createdTimestamp": "1538932878",
+      "updatedTimestamp": "1538932878",
+      "shortDescription": "Our easy-to-make salad is a light and refreshing addition to your next potluck or picnic.",
+      "photos": ["../images/cucumber-salad.jpg"]
+    }
   ]
 }
