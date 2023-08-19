@@ -13,7 +13,7 @@
   "tags": ["salads", "easy", "lunches"],
   "photos": [
     {
-      "url": "../public/images/bhaji-naan-wraps.jpg",
+      "url": "/images/bhaji-naan-wraps.jpg",
       "title": "chimichurri salad",
       "width": "398",
       "height": "398",
