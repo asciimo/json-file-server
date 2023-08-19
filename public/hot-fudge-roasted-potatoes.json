@@ -13,7 +13,7 @@
   "tags": ["fudge", "potatoes", "offensive"],
   "photos": [
     {
-      "url": "https://picsum.photos/200/300",
+      "url": "../public/images/lemon_pudding.jpg",
       "title": "A steaming pile of fudgy potatoes",
       "width": "250",
       "height": "250",
