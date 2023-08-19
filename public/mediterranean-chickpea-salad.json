@@ -13,7 +13,7 @@
   "tags": ["salads", "Mediterranean", "healthy"],
   "photos": [
     {
-      "url": "../images/mediterranean-chickpea-salad.jpg",
+      "url": "/images/mediterranean-chickpea-salad.jpg",
       "title": "mediterranean chickpea salad",
       "width": "450",
       "height": "450",
