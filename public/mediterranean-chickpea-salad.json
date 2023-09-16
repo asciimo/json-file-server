@@ -11,56 +11,11 @@
   "fullDescription": "Enjoy the flavors of the Mediterranean with this refreshing and nutritious chickpea salad. Packed with wholesome ingredients and a tangy dressing.",
   "quantity": "4 servings",
   "tags": ["salads", "Mediterranean", "healthy"],
-  "photos": [
-    {
-      "url": "/images/lentil_stew_with_kale.jpg",
-      "title": "mediterranean chickpea salad",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Colorful chickpea salad",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Wholesome chickpea salad",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Tangy chickpea salad",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Fresh chickpea salad",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Delicious chickpea salad",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/lentil_stew_with_kale.jpg",
+    "description": "mediterranean chickpea salad",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the salad",

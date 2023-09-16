@@ -11,56 +11,11 @@
   "fullDescription": "These colorful quinoa stuffed bell peppers make a nutritious and delicious meal. The combination of protein-rich quinoa, fresh vegetables, and flavorful seasonings creates a satisfying dish that's both healthy and flavorful. Serve it as a main course or as a side dish.",
   "quantity": "4 servings",
   "tags": ["stuffed peppers", "quinoa", "healthy", "vegetarian"],
-  "photos": [
-    {
-      "url": "/images/meatloaf.jpg",
-      "title": "quinoa stuffed bell peppers",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Delicious quinoa stuffed bell peppers",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Flavorful quinoa stuffed bell peppers",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Quinoa stuffed bell peppers",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Tasty quinoa stuffed bell peppers",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Colorful quinoa stuffed bell peppers",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/meatloaf.jpg",
+    "description": "quinoa stuffed bell peppers",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the stuffed bell peppers",

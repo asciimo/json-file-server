@@ -11,56 +11,11 @@
   "fullDescription": "This charming pile of carbs and sugar smells as offensive as it looks; a repelling surprise for any unruly guest! Despite its appearance it's actually delicious if you can must the courage to try it.",
   "quantity": "4 servings",
   "tags": ["fudge", "potatoes", "offensive"],
-  "photos": [
-    {
-      "url": "/images/lemon_pudding.jpg",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "250",
-      "height": "250",
-      "credit": "Picsum Photos",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "500",
-      "height": "500",
-      "credit": "Picsum Photos",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "800",
-      "height": "800",
-      "credit": "Picsum Photos",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "1600",
-      "height": "1600",
-      "credit": "Picsum Photos",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "800",
-      "height": "500",
-      "credit": "Picsum Photos",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Picsum Photos",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/lemon_pudding.jpg",
+    "description": "A steaming pile of fudgy potatoes",
+    "credit": "Picsum Photos"
+  },
   "ingredientGroups": [
     {
       "label": "For the roasted potatoes",

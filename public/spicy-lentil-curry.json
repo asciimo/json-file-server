@@ -10,56 +10,11 @@
   "fullDescription": "Enjoy the flavors of India with this spicy and comforting lentil curry. Made with a blend of aromatic spices and nutritious lentils, it's perfect for a hearty and satisfying meal. Serve it with steamed rice or naan bread.",
   "quantity": "4 servings",
   "tags": ["curry", "lentils", "Indian cuisine"],
-  "photos": [
-    {
-      "url": "/images/nashville_hot_chicken.jpg",
-      "title": "spicy lentil curry",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Delicious lentil curry",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Flavorful lentil curry",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Spicy lentil curry",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Tasty lentil curry",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Authentic lentil curry",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/nashville_hot_chicken.jpg",
+    "description": "spicy lentil curry",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the lentil curry",

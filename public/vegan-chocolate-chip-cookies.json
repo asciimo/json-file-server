@@ -16,56 +16,11 @@
     "sweet treats",
     "plant-based"
   ],
-  "photos": [
-    {
-      "url": "/images/queso.jpg",
-      "title": "vegan chocolate chip cookies",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Delicious vegan chocolate chip cookies",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Soft vegan chocolate chip cookies",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Vegan chocolate chip cookies on a plate",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Chewy vegan chocolate chip cookies",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Irresistible vegan chocolate chip cookies",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/queso.jpg",
+    "description": "vegan chocolate chip cookies",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the chocolate chip cookies",

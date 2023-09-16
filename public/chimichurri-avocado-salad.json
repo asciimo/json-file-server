@@ -11,56 +11,11 @@
   "fullDescription": "Thanks to this recipe from Real Food Really Fast, we’re savoring the tempting flavors of Vietnamese phở without slaving over a hot stove.",
   "quantity": "4 servings",
   "tags": ["salads", "easy", "lunches"],
-  "photos": [
-    {
-      "url": "/images/bhaji-naan-wraps.jpg",
-      "title": "chimichurri salad",
-      "width": "398",
-      "height": "398",
-      "credit": "Picsum Photos",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "500",
-      "height": "500",
-      "credit": "Picsum Photos",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "800",
-      "height": "800",
-      "credit": "Picsum Photos",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "1600",
-      "height": "1600",
-      "credit": "Picsum Photos",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "800",
-      "height": "500",
-      "credit": "Picsum Photos",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/200/300",
-      "title": "A steaming pile of fudgy potatoes",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Picsum Photos",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/bhaji-naan-wraps.jpg",
+    "description": "chimichurri salad",
+    "credit": "Picsum Photos"
+  },
   "ingredientGroups": [
     {
       "label": "For the roasted potatoes",

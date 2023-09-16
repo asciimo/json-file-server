@@ -11,56 +11,11 @@
   "fullDescription": "This hearty vegan lentil loaf is packed with flavor and makes a satisfying main dish. Made with lentils, vegetables, and flavorful seasonings, it's a delicious and nutritious alternative to traditional meatloaf. Serve it with mashed potatoes and steamed vegetables for a complete meal that will impress vegans and non-vegans alike.",
   "quantity": "6-8 servings",
   "tags": ["lentil loaf", "vegan meatloaf", "plant-based", "comfort food"],
-  "photos": [
-    {
-      "url": "/images/palak_tofu.jpg",
-      "title": "vegan lentil loaf",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Delicious vegan lentil loaf",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Flavorful vegan lentil loaf",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Vegan lentil loaf with gravy",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Tasty vegan lentil loaf",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Hearty vegan lentil loaf",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/palak_tofu.jpg",
+    "description": "vegan lentil loaf",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the lentil loaf",

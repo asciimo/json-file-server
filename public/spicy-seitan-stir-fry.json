@@ -11,56 +11,11 @@
   "fullDescription": "Enjoy a flavorful and spicy stir-fry with seitan, a delicious plant-based protein. Packed with colorful vegetables and a tangy sauce.",
   "quantity": "4 servings",
   "tags": ["stir-fry", "seitan", "plant-based"],
-  "photos": [
-    {
-      "url": "/images/tomato_gazpacho.jpg",
-      "title": "spicy seitan stir-fry",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Colorful seitan stir-fry",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Delicious seitan stir-fry",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Tangy seitan stir-fry",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Spicy seitan stir-fry",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Flavorful seitan stir-fry",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/tomato_gazpacho.jpg",
+    "description": "spicy seitan stir-fry",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the seitan",

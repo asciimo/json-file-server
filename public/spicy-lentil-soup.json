@@ -11,56 +11,11 @@
   "fullDescription": "Experience the heat and heartiness of this flavorful lentil soup that will warm you up in no time. Packed with nutritious ingredients and aromatic spices.",
   "quantity": "6 servings",
   "tags": ["soups", "spicy", "dinner"],
-  "photos": [
-    {
-      "url": "/images/no_bake_caramel_bars.jpg",
-      "title": "spicy lentil soup",
-      "width": "450",
-      "height": "450",
-      "credit": "Pexels",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Steamy lentil goodness",
-      "width": "600",
-      "height": "400",
-      "credit": "Pexels",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Satisfying lentil soup",
-      "width": "1000",
-      "height": "600",
-      "credit": "Pexels",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Bowl of hot lentil soup",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Pexels",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Aromatic lentil soup",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Pexels",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Hearty bowl of lentil soup",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Pexels",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/no_bake_caramel_bars.jpg",
+    "description": "spicy lentil soup",
+    "credit": "Pexels"
+  },
   "ingredientGroups": [
     {
       "label": "For the lentil soup",

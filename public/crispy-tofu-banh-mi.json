@@ -11,56 +11,11 @@
   "fullDescription": "Indulge in the perfect combination of crispy tofu, pickled vegetables, and flavorful condiments with this delicious banh mi sandwich. A fusion of Vietnamese and international flavors.",
   "quantity": "2 servings",
   "tags": ["banh mi", "tofu", "Vietnamese cuisine"],
-  "photos": [
-    {
-      "url": "/images/jamaican_banana_oatmeal.jpg",
-      "title": "crispy tofu banh mi",
-      "width": "450",
-      "height": "450",
-      "credit": "Unsplash",
-      "type": "thumbnail-1x"
-    },
-    {
-      "url": "https://picsum.photos/300/200",
-      "title": "Delicious banh mi sandwich",
-      "width": "600",
-      "height": "400",
-      "credit": "Unsplash",
-      "type": "thumbnail-2x"
-    },
-    {
-      "url": "https://picsum.photos/500/300",
-      "title": "Flavorful tofu banh mi",
-      "width": "1000",
-      "height": "600",
-      "credit": "Unsplash",
-      "type": "large-1x"
-    },
-    {
-      "url": "https://picsum.photos/800/600",
-      "title": "Crunchy banh mi sandwich",
-      "width": "1600",
-      "height": "1200",
-      "credit": "Unsplash",
-      "type": "large-2x"
-    },
-    {
-      "url": "https://picsum.photos/800/500",
-      "title": "Tasty tofu banh mi",
-      "width": "1600",
-      "height": "1000",
-      "credit": "Unsplash",
-      "type": "wide-1x"
-    },
-    {
-      "url": "https://picsum.photos/1200/800",
-      "title": "Vibrant banh mi sandwich",
-      "width": "2400",
-      "height": "1600",
-      "credit": "Unsplash",
-      "type": "wide-2x"
-    }
-  ],
+  "photo": {
+    "url": "/images/jamaican_banana_oatmeal.jpg",
+    "description": "crispy tofu banh mi",
+    "credit": "Unsplash"
+  },
   "ingredientGroups": [
     {
       "label": "For the crispy tofu",
