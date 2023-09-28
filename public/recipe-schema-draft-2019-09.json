@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (UUID) for the recipe."
+    },
+    "title": { "type": "string", "description": "Title of the recipe." },
+    "slug": {
+      "type": "string",
+      "description": "A unique, URL-friendly slug for the recipe."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "published", "archived"],
+      "description": "The status of the recipe (e.g., 'published')."
+    },
+    "tier": {
+      "type": "string",
+      "enum": ["free", "subscription"],
+      "description": "The tier or access level of the recipe (e.g., 'premium')."
+    },
+    "createdTimestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "GMT timestamp when the recipe was created."
+    },
+    "updatedTimestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "GMT timestamp when the recipe was last updated."
+    },
+    "publishedTimestamp": {
+      "anyof": [{ "type": "string" }, { "type": "null" }],
+      "format": "date-time",
+      "description": "GMT timestamp when the recipe was published."
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL of the original source of the recipe."
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "description": "Name of the author." },
+        "contact": {
+          "type": "string",
+          "description": "Contact information for the author such as Instagram, email, URL."
+        },
+        "note": {
+          "type": "string",
+          "description": "Additional note or information about the author."
+        }
+      },
+      "description": "Details about the author of the recipe."
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the recipe. Markdown is supported."
+    },
+    "quantity": {
+      "type": "string",
+      "description": "The quantity or serving size of the recipe, such as 'Serves 5,' 'Makes 8 cookies'."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "Tags associated with the recipe."
+      },
+      "uniqueItems": true
+    },
+    "photo": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the recipe photo. For example, https://photos.recipax.com/recipe-slug.jpg"
+        },
+        "description": {
+          "type": "string",
+          "description": "Description of the recipe photo."
+        },
+        "credit": {
+          "type": "string",
+          "description": "Credit for the recipe photo."
+        }
+      },
+      "description": "Details about the recipe photo."
+    },
+    "ingredientGroups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "description": "Label for the group of ingredients. For example, 'For the crust' or 'For the filling'."
+          },
+          "ingredients": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Name of the ingredient."
+                },
+                "amount": {
+                  "anyof": [{ "type": "string" }, { "type": "null" }],
+                  "description": "Amount of the ingredient. For example, '1 cup' or '½ teapoon'."
+                },
+                "preparation": {
+                  "anyof": [{ "type": "string" }, { "type": "null" }],
+                  "description": "Preparation instructions for the ingredient. For example, 'grated' or 'chopped'."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "instructionSteps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "step": {
+            "type": "integer",
+            "description": "Step number for the instruction."
+          },
+          "instructions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "description": "Instruction for the step, broken into sentences. Markdown is supported."
+            }
+          }
+        }
+      }
+    },
+    "sidebars": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "description": "Label for the sidebar, such as 'Notes' or 'Tip'. Markdown is supported."
+          },
+          "content": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "description": "Content for the sidebar. Markdown is supported."
+            }
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "slug",
+    "status",
+    "tier",
+    "createdTimestamp",
+    "updatedTimestamp",
+    "source",
+    "author",
+    "description",
+    "quantity",
+    "tags",
+    "photo",
+    "ingredientGroups",
+    "instructionSteps"
+  ]
+}

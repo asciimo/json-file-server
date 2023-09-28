@@ -1,0 +1,176 @@
+{
+  "id": "everything-sesame-clover-rolls",
+  "title": "Everything Sesame Clover Rolls",
+  "slug": "everything-sesame-clover-rolls",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T08:00:00Z",
+  "updatedTimestamp": "2023-09-28T08:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1L6ryeBjE_RNotekuwbNxyyOFfCkVmBT6Kjtqv2Y4qHU/edit",
+  "author": {
+    "name": "Heather Bell and Jenny Engel",
+    "contact": "sporkfoods.com",
+    "note": "Sisters, authors of Spork-Fed and Vegan 101, and co-owners of Spork Foods, a Los Angeles-based gourmet vegan food company."
+  },
+  "description": "Indulge in the delightful flavors of our Everything Sesame Clover Rolls. These vegan rolls, topped with a medley of seeds and spices, are perfect for any occasion, whether it's a cozy breakfast, satisfying snack, or an appetizer that steals the show. Learn how to make these golden, savory delights that will have your taste buds dancing with joy. Try our easy-to-follow recipe today!",
+  "quantity": "Makes 12 rolls",
+  "tags": ["appetizer", "snack", "breakfast", "sesame seeds"],
+  "photo": {
+    "url": "https://photos.recipax.com/everything-sesame-clover-rolls.jpg",
+    "description": "Everything Sesame Clover Rolls",
+    "credit": "Photograph by Kristy Turner"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the rolls",
+      "ingredients": [
+        {
+          "name": "Cooking spray",
+          "amount": null,
+          "preparation": "for greasing"
+        },
+        {
+          "name": "active dry yeast",
+          "amount": "1 (1.4-ounce) packet or 2¼ teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "warm water",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "plain unsweetened almond milk",
+          "amount": "⅔ cup",
+          "preparation": null
+        },
+        {
+          "name": "vegan butter",
+          "amount": "¼ cup",
+          "preparation": "plus more for greasing"
+        },
+        {
+          "name": "lemon juice",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": "2 cups",
+          "preparation": "plus more for kneading"
+        },
+        {
+          "name": "salt",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "black pepper",
+          "amount": "½ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "cane sugar",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "vegan butter",
+          "amount": "2 tablespoons",
+          "preparation": "melted"
+        }
+      ]
+    },
+    {
+      "label": "For the topping",
+      "ingredients": [
+        {
+          "name": "poppy seeds",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "sesame seeds",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "caraway seeds",
+          "amount": "½ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "dried minced onion",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "garlic powder",
+          "amount": "¼ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "coarse sea salt",
+          "amount": "¼ teaspoon",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "Grease a 12-cupcake pan well with cooking spray.",
+        "In a small bowl, whisk yeast and warm water.",
+        "Set aside for 7 to 10 minutes or until water is foamy."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "In a small pot over medium-low heat, add almond milk and heat to a simmer.",
+        "Once simmering, reduce heat to low, and add butter to melt.",
+        "Add lemon juice, and set aside for 1 minute."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "In a large bowl, whisk flour, salt, pepper, and sugar.",
+        "Add almond milk mixture and yeast.",
+        "If rising dough in the oven, preheat oven to 250 degrees."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "In a food processor, add flour mixture and knead with a kneading attachment until a ball of dough forms.",
+        "Alternatively, knead with your hands.",
+        "Divide dough into 36 walnut-sized balls.",
+        "Add 3 balls per cupcake well, creating a clover shape.",
+        "Brush tops generously with melted butter."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "In a separate bowl, whisk remaining ingredients.",
+        "Sprinkle mixture generously over rolls.",
+        "Lightly grease dough with cooking spray, then let rise in a warm room for 1 hour.",
+        "If using a preheated oven to rise, place pan in the oven and rise dough until doubled in size, 40 to 50 minutes."
+      ]
+    },
+    {
+      "step": 6,
+      "instructions": [
+        "Preheat oven to 375 degrees.",
+        "Bake until rolls are golden, about 22 minutes.",
+        "Remove pan from the oven and place on a wire cooling rack to cool for about 10 minutes.",
+        "Serve immediately."
+      ]
+    }
+  ],
+  "sidebars": []
+}

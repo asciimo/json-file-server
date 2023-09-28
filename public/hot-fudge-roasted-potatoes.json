@@ -7,12 +7,16 @@
   "createdTimestamp": "1516679803",
   "updatedTimestamp": "1516679803",
   "publishedTimestamp": "1516689703",
-  "shortDescription": "A repelling surprise for any unruly guest.",
-  "fullDescription": "This charming pile of carbs and sugar smells as offensive as it looks; a repelling surprise for any unruly guest! Despite its appearance it's actually delicious if you can must the courage to try it.",
+  "author": {
+    "name": "Peter Fitzpatrick",
+    "contact": "@bigpeetee",
+    "note": "Peter is the author of NYT best seller \"Fudgy Surprises.\""
+  },
+  "description": "This charming pile of carbs and sugar smells as offensive as it looks; a repelling surprise for any unruly guest! Despite its appearance it's actually delicious if you can must the courage to try it.",
   "quantity": "4 servings",
   "tags": ["fudge", "potatoes", "offensive"],
   "photo": {
-    "url": "/images/lemon_pudding.jpg",
+    "url": "https://photos.recipax.com/lemon_pudding.jpg",
     "description": "A steaming pile of fudgy potatoes",
     "credit": "Picsum Photos"
   },
@@ -41,27 +45,36 @@
       ]
     }
   ],
-  "instructionGroups": [
+  "instructionSteps": [
     {
-      "label": "For the roasted potatoes",
+      "step": 1,
       "instructions": [
-        "Preheat oven to 375 degrees. Rinse the potatoes, pat dry, and cut into 1/2 inch cubes. Place in a bowl, coat with oil, and toss. Spread evenly on a baking sheet  and bake for 30 minutes, turning half way through.",
-        "Place on two paper plates and coat with fudge. Enjoy."
+        "For the roasted potatoes, preheat oven to 375 degrees.",
+        "Rinse the potatoes, pat dry, and cut into 1/2 inch cubes.",
+        "Place in a bowl, coat with oil, and toss.",
+        "Spread evenly on a baking sheet  and bake for 30 minutes, turning half way through.",
+        "Place on two paper plates and coat with fudge.",
+        "Enjoy."
       ]
     },
     {
-      "label": "For the hot fudge",
+      "step": 2,
       "instructions": [
-        "Cut fudge into 1/2 inch cubes",
+        "For the hot fudge, cut fudge into 1/2 inch cubes",
         "Place fudge cubes in small sauce pan and heat on low, stirring vigorously",
-        "Keep stirring until the potatoes are done"
+        "Keep stirring until the potatoes are done."
       ]
     }
   ],
-  "tips": [
-    "Try not to eat all the fudge prior to preparing this dish",
-    "Potatoes are sometimes dirty",
-    "This is a really confusing dish for children and the elderly",
-    "They call it hot fudge for a reason. Be careful"
+  "sidebars": [
+    {
+      "label": "Chef's Tips",
+      "content": [
+        "- Try not to eat all the fudge prior to preparing this dish\n",
+        "- Potatoes are sometimes dirty\n",
+        "- This is a really confusing dish for children and the elderly\n",
+        "- They call it hot fudge for a reason. Be careful!"
+      ]
+    }
   ]
 }

@@ -1,0 +1,187 @@
+{
+  "id": "strawberry-rhubarb-cheesecake-bars",
+  "title": "Strawberry Rhubarb Cheesecake Bars",
+  "slug": "strawberry-rhubarb-cheesecake-bars",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T12:00:00Z",
+  "updatedTimestamp": "2023-09-28T12:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1atWCnxOln8uzXk2MOmfvNA9gHtqc-m4-Q8Wk51EQe9I/edit",
+  "author": {
+    "name": "Jackie Sobon",
+    "contact": "veganyackattack.com",
+    "note": "Author of Vegan Yack Attack’s Plant-Based Meal Prep, a blogger, and professional food photographer with a sweet tooth."
+  },
+  "description": "The tart flavor of rhubarb is perfectly balanced by the fruity sweetness of strawberries. Make a double batch of the ruby red, fruit-and-vegetable compote to add to ice cream, oatmeal,yogurt, and more.",
+  "quantity": "Makes 16 bars",
+  "tags": ["dessert", "snack", "cheesecake", "jam", "indulgent"],
+  "photo": {
+    "url": "https://photos.recipax.com/strawberry-rhubarb-cheesecake-bars.jpg",
+    "description": "Strawberry Rhubarb Cheesecake Bars",
+    "credit": "Jackie Sobon"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the crust",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": "1 cup",
+          "preparation": null
+        },
+        {
+          "name": "raw almonds",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "pitted dates",
+          "amount": "½ cup",
+          "preparation": "halved"
+        },
+        {
+          "name": "salt",
+          "amount": "½ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "water",
+          "amount": "2 tablespoons",
+          "preparation": null
+        }
+      ]
+    },
+    {
+      "label": "For the cheesecake filling",
+      "ingredients": [
+        {
+          "name": "raw cashews",
+          "amount": "1½ cups",
+          "preparation": null
+        },
+        {
+          "name": "vegan cream cheese",
+          "amount": "1 (8 ounce) package",
+          "preparation": null
+        },
+        {
+          "name": "vegan sour cream",
+          "amount": "1 cup",
+          "preparation": null
+        },
+        {
+          "name": "agave nectar",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "sugar",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "lemon juice",
+          "amount": "3 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "cornstarch",
+          "amount": "2 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "vanilla extract",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "salt",
+          "amount": "½ teaspoon",
+          "preparation": null
+        }
+      ]
+    },
+    {
+      "label": "For the fruit topping",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": "⅓ cup",
+          "preparation": "divided"
+        },
+        {
+          "name": "strawberries",
+          "amount": "1 cup",
+          "preparation": "sliced"
+        },
+        {
+          "name": "rhubarb",
+          "amount": "1 cup",
+          "preparation": "sliced"
+        },
+        {
+          "name": "sugar",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "cornstarch",
+          "amount": "2 teaspoons",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "For the crust, preheat oven to 325 degrees and line an 8 x 8-inch baking dish with parchment paper.",
+        "In a food processor, add flour, almonds, dates, and salt.",
+        "Pulse until almonds and dates resemble coarse sand.",
+        "Add water and pulse mixture until combined and sticks together when pinched.",
+        "Transfer to baking dish and press firmly into an even layer."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "For the cheesecake filling, into a blender, add all ingredients and purée until very smooth, working in batches if needed.",
+        "Pour filling into crust and tap pan firmly on a sturdy flat surface to release air bubbles."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "Bake for 50 to 55 minutes, or until center is slightly jiggly and edges begin to brown.",
+        "Remove from oven and refrigerate for at least 4 hours."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "For the fruit topping, in a small saucepan over medium heat, add ¼ cup water, strawberries, rhubarb, and sugar and bring to a boil.",
+        "Adjust heat to medium-low, cover, and simmer for 5 minutes, stirring occasionally.",
+        "Once rhubarb has softened, in a small dish, whisk remaining water and cornstarch until combined.",
+        "Stir cornstarch mixture into fruit mixture quickly and simmer until thickened.",
+        "Transfer to a shallow bowl and refrigerate to cool."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "Spread cooled strawberry rhubarb topping over cooled cheesecake and cut into 16 squares.",
+        "Cover and refrigerate until ready to serve."
+      ]
+    }
+  ],
+  "sidebars": [
+    {
+      "label": "Chef’s Tip",
+      "content": [
+        "This recipe is easily adapted for the changing seasons. Try substituting the strawberry and rhubarb for 2 cups sliced peaches during the summer, 2 cups persimmons for the fall, and 1½ cups cranberries and ½ cup orange segments in the winter."
+      ]
+    }
+  ]
+}
