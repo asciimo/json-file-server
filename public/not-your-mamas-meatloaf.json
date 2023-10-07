@@ -1,0 +1,165 @@
+{
+  "id": "not-your-mamas-meatloaf",
+  "title": "Not Your Mama's Meatloaf",
+  "slug": "not-your-mamas-meatloaf",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T09:00:00Z",
+  "updatedTimestamp": "2023-09-28T09:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1BcZWYxeKPnlgf_vRvVeLgNqz8FC3FPydMHJFwRfLmjo/edit",
+  "author": {
+    "name": "Babette Davis",
+    "contact": null,
+    "note": null
+  },
+  "description": "Upgrade your classic meatloaf with this delicious farro loaf that's packed with nutty flavor and served with a sweet-and-savory red sauce. It's a comforting main course that's perfect for Sunday dinner.",
+  "quantity": "6 servings",
+  "tags": [
+    "meatloaf",
+    "classic",
+    "comfort food",
+    "dinner",
+    "main course",
+    "nostalgic"
+  ],
+  "photo": {
+    "url": "https://photos.recipax.com/not-your-mamas-meatloaf.jpg",
+    "description": "Not Your Mama's Meatloaf",
+    "credit": "Murielle Banackissa"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the red sauce",
+      "ingredients": [
+        {
+          "name": "ketchup",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "agave nectar",
+          "amount": "½ tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "vegan Worcestershire sauce",
+          "amount": "1 tablespoon",
+          "preparation": null
+        }
+      ]
+    },
+    {
+      "label": "For the farro loaf",
+      "ingredients": [
+        {
+          "name": "uncooked farro",
+          "amount": "3 cups",
+          "preparation": null
+        },
+        {
+          "name": "liquid aminos",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "bulgur",
+          "amount": "2 cups",
+          "preparation": "soaked in water for 30 minutes and drained"
+        },
+        {
+          "name": "walnuts",
+          "amount": "2 cups",
+          "preparation": null
+        },
+        {
+          "name": "crimini mushrooms",
+          "amount": "1½ cups",
+          "preparation": null
+        },
+        {
+          "name": "shredded vegan cheddar cheese",
+          "amount": "1 cup",
+          "preparation": null
+        },
+        {
+          "name": "vegan Worcestershire sauce",
+          "amount": "2 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "water",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "no-salt seasoning",
+          "amount": "1 tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "celery",
+          "amount": "¼ cup",
+          "preparation": "chopped"
+        },
+        {
+          "name": "carrots",
+          "amount": "¼ cup",
+          "preparation": "chopped"
+        },
+        {
+          "name": "red onion",
+          "amount": "¼ cup",
+          "preparation": "diced"
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "For the red sauce, into a bowl, add all ingredients and whisk.",
+        "Set aside."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "Cook farro according to package directions, replacing ¼ cup water with liquid aminos.",
+        "Cook until tender, and set aside."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "Into a food processor, add ⅓ of cooked farro, walnuts, mushrooms, cheese, Worcestershire sauce, water, and no-salt seasoning.",
+        "Process until smooth. Transfer to a large mixing bowl and set aside."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "Preheat oven to 350 degrees.",
+        "In a nonstick pan over medium-high heat, add celery, carrots, and onion and sauté for 8 minutes.",
+        "Add water if needed, 1 tablespoon at a time, to prevent sticking."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "Add remaining farro, bulgur, and sautéed vegetables to the walnut mixture and mix well.",
+        "Spray two 9 x 5-inch loaf pans with nonstick spray.",
+        "Press mixture firmly into dish and bake for 45 minutes, or until top is browned."
+      ]
+    },
+    {
+      "step": 6,
+      "instructions": [
+        "Remove from oven and brush with red sauce evenly across the top of the loaf.",
+        "Bake an additional 15 minutes.",
+        "Remove and allow to cool at least 10 minutes before slicing and serving."
+      ]
+    }
+  ]
+}

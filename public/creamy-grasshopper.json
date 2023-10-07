@@ -1,0 +1,72 @@
+{
+  "id": "12345",
+  "title": "Creamy Grasshopper",
+  "slug": "creamy-grasshopper",
+  "status": "published",
+  "tier": "free",
+  "createdTimestamp": "2023-09-27T12:00:00Z",
+  "updatedTimestamp": "2023-09-27T12:30:00Z",
+  "source": "https://docs.google.com/document/d/1kGuc-T03hUYLkt_y28dK0SQBqAaC0_NyRfWFKhg0NTs/edit",
+  "author": {
+    "name": "Lauren Fitzgerald",
+    "contact": "veganyackattack.com",
+    "note": "Jackie Sobon is author of Vegan Bowl Attack!, a blogger, and professional food photographer who has an insatiable sweet tooth and loves playing with her food."
+  },
+  "description": "This decadent cocktail marries chocolate and mint, and gets its bright green hue from fresh kale.",
+  "quantity": "Makes 2 cocktails",
+  "tags": ["beverage", "Holidays", "cocktail"],
+  "photo": {
+    "url": "https://photos.recipax.com/creamy-grasshopper.jpg",
+    "description": "Creamy Grasshopper Cocktail",
+    "credit": "Jackie Sobon"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the cocktail",
+      "ingredients": [
+        {
+          "name": "creme de menthe",
+          "amount": "3 ounces",
+          "preparation": null
+        },
+        {
+          "name": "creme de cacao",
+          "amount": "3 ounces",
+          "preparation": null
+        },
+        {
+          "name": "coconut milk",
+          "amount": "3 ounces",
+          "preparation": null
+        },
+        {
+          "name": "kale juice",
+          "amount": "1 ounce",
+          "preparation": null
+        },
+        {
+          "name": "ice cubes",
+          "amount": "8 large",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "In a cocktail shaker, add creme de menthe, creme de cacao, coconut milk, kale juice, and ice cubes.",
+        "Shake vigorously, then strain into two martini glasses and garnish with grated dark chocolate."
+      ]
+    }
+  ],
+  "sidebars": [
+    {
+      "label": "Glam Garnishes",
+      "content": [
+        "For spirited cocktail finishers, adorn with crystallized lemon or orange, edible gold dust, or crushed candy cane."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "sichuan-dan-dan-noodles-vegan-minced-pork",
+  "title": "Sichuan Dan Dan Noodles with Vegan Minced Pork",
+  "slug": "sichuan-dan-dan-noodles-vegan-minced-pork",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T09:30:00Z",
+  "updatedTimestamp": "2023-09-28T09:30:00Z",
+  "publishedTimestamp": null,
+  "author": {
+    "name": "George Lee",
+    "contact": null,
+    "note": null
+  },
+  "source": "https://docs.google.com/document/d/1teBYceUQpF8O5lhLU2O56VkWAyWnmxsYmpB0Zvkvrek/edit",
+  "description": "Enjoy the bold and spicy flavors of Sichuan cuisine with these delectable Dan Dan Noodles topped with vegan minced pork. It's a satisfying dish perfect for lunch or dinner.",
+  "quantity": "Serves 2",
+  "tags": [
+    "Sichuan",
+    "noodles",
+    "vegan pork",
+    "vegan meat",
+    "spicy",
+    "sauce",
+    "lunch",
+    "dinner"
+  ],
+  "photo": {
+    "url": "https://photos.recipax.com/sichuan-dan-dan-noodles-vegan-minced-pork.jpg",
+    "description": "Sichuan Dan Dan Noodles with Vegan Minced Pork",
+    "credit": "Jackie Sobon"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the vegan minced pork",
+      "ingredients": [
+        {
+          "name": "textured vegetable protein",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "amount": "4",
+          "preparation": "finely diced"
+        },
+        {
+          "name": "ginger",
+          "amount": "1 teaspoon",
+          "preparation": "finely minced"
+        },
+        {
+          "name": "garlic",
+          "amount": "1 clove",
+          "preparation": "finely minced"
+        },
+        {
+          "name": "soy sauce",
+          "amount": "1 tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "Shaoxing wine or dry sherry",
+          "amount": "1 tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "doubanjiang",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "five-spice powder",
+          "amount": "¼ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "Vegetable oil",
+          "amount": null,
+          "preparation": "for frying"
+        }
+      ]
+    },
+    {
+      "label": "For the spicy sauce",
+      "ingredients": [
+        {
+          "name": "garlic",
+          "amount": "4 cloves",
+          "preparation": "grated"
+        },
+        {
+          "name": "chili oil or chili crisp",
+          "amount": "4 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "light soy sauce",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "ground Sichuan pepper or black pepper",
+          "amount": "2 teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "maple syrup",
+          "amount": "2 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "creamy peanut butter",
+          "amount": "2 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "black vinegar",
+          "amount": "2 teaspoons",
+          "preparation": null
+        }
+      ]
+    },
+    {
+      "label": "For the noodles",
+      "ingredients": [
+        {
+          "name": "Chinese wheat noodles",
+          "amount": "1 (12-ounce) package",
+          "preparation": null
+        },
+        {
+          "name": "bok choy",
+          "amount": "1 head",
+          "preparation": "blanched and chopped"
+        },
+        {
+          "name": "scallion",
+          "amount": "1",
+          "preparation": "thinly sliced"
+        },
+        {
+          "name": "roasted peanuts",
+          "amount": "1 tablespoon",
+          "preparation": "crushed"
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "For the minced pork, soak textured vegetable protein in warm water for 10 minutes. Drain and squeeze out excess liquid. In a mixing bowl, combine with mushrooms."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "In a non-stick pan over medium-high heat, warm vegetable oil. Add protein and mushrooms and cook until most moisture has evaporated, about 6 to 8 minutes. Add ginger, garlic, soy sauce, Shaoxing wine, doubanjiang, and five-spice powder. Cook, stirring occasionally, about 10 minutes. Remove from heat and set aside."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "For the spicy sauce, into a small bowl, whisk all ingredients until smooth. Set aside."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "For the noodles, cook according to package directions. Strain noodles, reserving at least ½ cup of cooking liquid."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "To assemble each bowl, divide noodles evenly between bowls and top each with ¼ cup warm cooking liquid, 5 tablespoons spicy sauce, vegan minced pork, bok choy, scallion, and crushed peanuts. Gently mix to emulsify and serve immediately."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "smoky-nacho-fries",
+  "title": "Smoky Nacho Fries",
+  "slug": "smoky-nacho-fries",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T08:00:00Z",
+  "updatedTimestamp": "2023-09-28T08:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1OIOdUdhfZnAWI7wp3qegzcLSqL9R313tpxxu5NHPoeU/edit",
+  "author": {
+    "name": "Julie Hasson",
+    "contact": "juliehasson.com",
+    "note": "Vegan chef and cookbook author based in Portland, OR"
+  },
+  "description": "Enjoy these smoky nacho fries as a delicious appetizer or side dish. Crispy oven-baked potato wedges seasoned with nutritional yeast, cumin, onion, garlic, and smoked paprika are a perfect snack for any occasion.",
+  "quantity": "4 servings",
+  "tags": ["fries", "appetizer", "side dish"],
+  "photo": {
+    "url": "",
+    "description": "Smoky Nacho Fries",
+    "credit": "Kate Lewis"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the Easy Oven-Baked Fries",
+      "ingredients": [
+        {
+          "name": "large Russet or white potatoes",
+          "amount": 2,
+          "preparation": "cut into ½-inch-thick wedges"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "salt",
+          "amount": "½ teaspoon",
+          "preparation": null
+        }
+      ]
+    },
+    {
+      "label": "For the toppings",
+      "ingredients": [
+        {
+          "name": "nutritional yeast",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "ground cumin",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "granulated onion",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "granulated garlic",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "smoked paprika",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "salt",
+          "amount": "½ teaspoon",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "For the Easy Oven-Baked Fries, preheat oven to 450 degrees.",
+        "Line 2 large baking sheets with parchment paper and coat with cooking spray.",
+        "Rinse potato wedges in cold water and drain.",
+        "Dry on a clean towel to remove all moisture.",
+        "In a large bowl, toss potatoes with oil and sprinkle with salt.",
+        "Before baking, toss with nutritional yeast, cumin, onion, garlic, paprika, and salt.",
+        "Spread in a single layer on baking sheets.",
+        "Bake until crisp and golden brown, approximately 35 to 40 minutes, turning halfway through."
+      ]
+    }
+  ]
+}

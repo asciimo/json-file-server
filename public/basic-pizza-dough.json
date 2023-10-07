@@ -1,0 +1,119 @@
+{
+  "id": "basic-pizza-dough",
+  "title": "Basic Pizza Dough",
+  "slug": "basic-pizza-dough",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-28T10:30:00Z",
+  "updatedTimestamp": "2023-09-28T10:30:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1-A6W_3r5Y3viO55iPaFCKArY2QB2aOOeQi0DfY9NSFA/edit",
+  "author": {
+    "name": "Julie Hasson",
+    "contact": null,
+    "note": null
+  },
+  "description": "There’s only one thing better than pizza, and that’s homemade pizza, which is just one reason why our simple dough recipe is a game-changer. The other? You don’t need a fancy pizza stone or special oven to enjoy it. Easily customized for a sumptuous weeknight dinner or a festive weekend party, our three awesome pies (Tex-Mex Taco Pizza, Creamy Broccoli Alfredo Pizza, and Buffalo Chicken SpinachPizza) feature one of two sauces—a zesty cilantro pesto or a garlicky Alfredo-style sauce—that create the ideal backdrop for a night of DIY fun. Just make the dough and sauces, set out your favorite toppings, and let your friends and family design their own sensational pies. Mangia!",
+  "quantity": "Makes 4 8-inch individual pizzas",
+  "tags": ["pizza", "dough", "agave", "Italian"],
+  "photo": {
+    "url": "https://photos.recipax.com/basic-pizza-dough.jpg",
+    "description": "Basic Pizza Dough",
+    "credit": null
+  },
+  "ingredientGroups": [
+    {
+      "label": "What You Need:",
+      "ingredients": [
+        {
+          "name": "active dry yeast",
+          "amount": "1 tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "warm water",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "sugar",
+          "amount": "½ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "agave",
+          "amount": "1 tablespoon",
+          "preparation": null
+        },
+        {
+          "name": "salt",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "olive oil",
+          "amount": "1 tablespoon",
+          "preparation": "plus more to grease bowl and dough"
+        },
+        {
+          "name": "cool water",
+          "amount": "¾ cup",
+          "preparation": null
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": "2 cups",
+          "preparation": "plus more as needed"
+        },
+        {
+          "name": "stone-ground cornmeal",
+          "amount": "½ cup plus 2 tablespoons",
+          "preparation": "divided"
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "In a small bowl, dissolve yeast in warm water.",
+        "Stir in sugar and set aside for 10 minutes.",
+        "In another small bowl, mix agave, salt, oil, and water, and set aside."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "In a large bowl, combine flour and ½ cup cornmeal.",
+        "Add dissolved yeast and agave-oil mixture, and stir with a wooden spoon until dough comes away from sides of bowl and forms a ball.",
+        "If too sticky, sprinkle a teaspoon more flour.",
+        "Alternatively, use a food processor or stand mixer to mix dough."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "Onto a lightly floured surface, scrape out dough and knead until smooth, about 5 to 10 minutes.",
+        "Into a lightly greased large bowl, transfer dough, cover with plastic wrap, and let rise 1 hour."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "Preheat oven to 500 degrees.",
+        "Line 2 baking sheets with parchment paper and sprinkle with remaining 2 tablespoons cornmeal.",
+        "Divide dough into 4 equal pieces.",
+        "Onto a lightly floured surface, roll each ball of dough into a circle to the desired thickness.",
+        "Lightly dust with additional teaspoon of flour if dough is too sticky.",
+        "Place rolled dough on prepared baking sheets and brush edges with oil."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "Garnish pizzas with desired toppings, and bake for 10 to 15 minutes, or until crust is browned."
+      ]
+    }
+  ]
+}

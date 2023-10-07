@@ -1,0 +1,100 @@
+{
+  "id": "a47d8c3e-1380-4f1c-bd5d-862cc46ed7c7",
+  "title": "Cashew Brittle Crunch",
+  "slug": "cashew-brittle-crunch",
+  "status": "published",
+  "tier": "free",
+  "createdTimestamp": "2023-09-27T12:00:00Z",
+  "updatedTimestamp": "2023-09-27T12:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1rYRu6IwWV73s7rM7ddp7mbLG73rd_P02tssgLJ7b9zo/edit",
+  "author": {
+    "name": "Bianca Phillips",
+    "contact": "https://vegancrunk.blogspot.com",
+    "note": "Bianca Phillips lives in Memphis, TN and is the author of Cookin' Crunk: Eatin' Vegan in the Dirty South."
+  },
+  "description": "Candy makes everyone's holiday season that much merrier, which is why we're bringing you six delightful confections that'll transform any office or family gathering into a snow-capped wonderland. From toasted cashew brittle and peppermint-laced white chocolate bark to marshmallow-studded fudge and eggnog truffles, our dairy-free versions of winter classics are as easy to make as they are delicious to eat. We’ve even veganized divinity—a traditional Southern holiday dessert typically made with egg whites—using aquafaba to create a light and airy meringue-like texture. And don't worry, we won't tell if you decide not to leave any for Santa.",
+  "quantity": "Makes 10 pieces",
+  "tags": ["dessert", "Holidays", "cashews", "vanilla", "brown sugar"],
+  "photo": {
+    "url": "https://photos.recipax.com/cashew-brittle-crunch.jpg",
+    "description": "Cashew Brittle Crunch",
+    "credit": "Kate Lewis"
+  },
+  "ingredientGroups": [
+    {
+      "label": "Ingredients",
+      "ingredients": [
+        {
+          "name": "baking soda",
+          "amount": "1½ teaspoons",
+          "preparation": null
+        },
+        {
+          "name": "water",
+          "amount": "1 cup plus 1 teaspoon",
+          "preparation": "divided"
+        },
+        {
+          "name": "vanilla",
+          "amount": "1 teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "brown sugar",
+          "amount": "1½ cups",
+          "preparation": null
+        },
+        {
+          "name": "dark corn syrup",
+          "amount": "1 cup",
+          "preparation": null
+        },
+        {
+          "name": "vegan butter",
+          "amount": "3 tablespoons",
+          "preparation": null
+        },
+        {
+          "name": "roasted, salted cashews",
+          "amount": "2 cups",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "Preheat oven to 250 degrees.",
+        "Place two large baking sheets in oven to keep warm."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "In a small bowl, combine baking soda, 1 teaspoon water, and vanilla.",
+        "Set aside."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "In a medium saucepan over medium heat, combine brown sugar, corn syrup, and remaining 1 cup water, stirring often.",
+        "Using a candy thermometer, bring mixture to 250 degrees (hard ball stage), and then stir in butter and cashews until it reaches 300 degrees (hard crack stage).",
+        "Remove from heat and stir in baking soda mixture until slightly foamy."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "Place parchment paper over warmed baking sheets.",
+        "Pour candy onto parchment, dividing mixture over two sheets.",
+        "Quickly spread to ¼ -inch thickness.",
+        "Cool for at least 1 hour, and then break into bite-sized pieces.",
+        "Store at room temperature in an airtight container for up to two months."
+      ]
+    }
+  ]
+}

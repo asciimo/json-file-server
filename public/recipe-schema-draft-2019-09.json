@@ -46,11 +46,11 @@
       "properties": {
         "name": { "type": "string", "description": "Name of the author." },
         "contact": {
-          "type": "string",
+          "anyof": [{ "type": "string" }, { "type": "null" }],
           "description": "Contact information for the author such as Instagram, email, URL."
         },
         "note": {
-          "type": "string",
+          "anyof": [{ "type": "string" }, { "type": "null" }],
           "description": "Additional note or information about the author."
         }
       },
@@ -85,7 +85,7 @@
           "description": "Description of the recipe photo."
         },
         "credit": {
-          "type": "string",
+          "anyof": [{ "type": "string" }, { "type": "null" }],
           "description": "Credit for the recipe photo."
         }
       },

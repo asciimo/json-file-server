@@ -1,0 +1,69 @@
+{
+  "id": "12345",
+  "title": "Simple Cilantro Pesto",
+  "slug": "simple-cilantro-pesto",
+  "status": "published",
+  "tier": "free",
+  "createdTimestamp": "2023-09-27T12:00:00Z",
+  "updatedTimestamp": "2023-09-27T12:00:00Z",
+  "source": "https://docs.google.com/document/d/147aJATir6oYX2_YaZPkBH275IWXOXgqb-EXGpIlsrgM/edit",
+  "author": {
+    "name": "Julie Hasson",
+    "contact": "juliehasson.com",
+    "note": "Julie Hasson is a vegan chef and cookbook author based in Portland, OR."
+  },
+  "description": "A simple and flavorful cilantro pesto with the nuttiness of walnuts and the umami of nutritional yeast.",
+  "quantity": "Makes ¾ cup",
+  "tags": ["sauce", "pesto", "pizza"],
+  "photo": {
+    "url": "https://photos.recipax.com/simple-cliantro-pesto",
+    "description": "Simple cilantro pesto",
+    "credit": ""
+  },
+  "ingredientGroups": [
+    {
+      "label": "Ingredients",
+      "ingredients": [
+        {
+          "name": "fresh cilantro",
+          "amount": "1 large bunch (2 cups packed)",
+          "preparation": null
+        },
+        {
+          "name": "walnuts",
+          "amount": "½ cup",
+          "preparation": null
+        },
+        {
+          "name": "garlic cloves",
+          "amount": "6",
+          "preparation": null
+        },
+        {
+          "name": "nutritional yeast",
+          "amount": "¼ cup",
+          "preparation": null
+        },
+        {
+          "name": "salt",
+          "amount": "½ teaspoon",
+          "preparation": null
+        },
+        {
+          "name": "olive oil",
+          "amount": "⅓ cup plus 2 tablespoons",
+          "preparation": null
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "In a food processor, add cilantro, walnuts, garlic, nutritional yeast, and salt.",
+        "Pulse to combine, add oil, and process until smooth."
+      ]
+    }
+  ]
+}

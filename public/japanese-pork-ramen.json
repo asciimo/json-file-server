@@ -1,0 +1,226 @@
+{
+  "id": "japanese-pork-ramen",
+  "title": "Japanese Pork Ramen",
+  "slug": "japanese-pork-ramen",
+  "status": "draft",
+  "tier": "free",
+  "createdTimestamp": "2023-09-29T08:00:00Z",
+  "updatedTimestamp": "2023-09-29T08:00:00Z",
+  "publishedTimestamp": null,
+  "source": "https://docs.google.com/document/d/1vnZK7iZel1-YyuW1fYvcb5G79V9j_E18C5HbZEqaVck/edit?pli=1",
+  "author": {
+    "name": "Lauren Toyota",
+    "contact": "",
+    "note": ""
+  },
+  "description": "Traditionally, ramen is served in warmed bowls and consists of four parts: the savory broth, thick and chewy noodles, tare (the concentrated seasonings that give ramen its distinctive flavor), and a meaty protein. This delectable vegan version is no different.",
+  "quantity": "Serves 4",
+  "tags": [
+    "ramen",
+    "Japanese",
+    "vegan pork",
+    "vegan meat",
+    "customizable",
+    "lunch",
+    "dinner",
+    "soup",
+    "broth"
+  ],
+  "photo": {
+    "url": "",
+    "description": "Japanese Pork Ramen",
+    "credit": "Jackie Sobon"
+  },
+  "ingredientGroups": [
+    {
+      "label": "For the broth",
+      "ingredients": [
+        {
+          "name": "yellow onions",
+          "amount": 2,
+          "preparation": "halved"
+        },
+        {
+          "name": "garlic bulbs",
+          "amount": 2,
+          "preparation": ""
+        },
+        {
+          "name": "large sweet potatoes",
+          "amount": 2,
+          "preparation": "diced"
+        },
+        {
+          "name": "vegetable oil",
+          "amount": "2 tablespoons",
+          "preparation": ""
+        },
+        {
+          "name": "cremini mushrooms",
+          "amount": "1 pound",
+          "preparation": ""
+        },
+        {
+          "name": "shiitake mushrooms",
+          "amount": "8 ounces (approximately 1 cup)",
+          "preparation": ""
+        },
+        {
+          "name": "celery stalks",
+          "amount": "2",
+          "preparation": "quartered"
+        },
+        {
+          "name": "scallions",
+          "amount": "3",
+          "preparation": "quartered"
+        },
+        {
+          "name": "fresh ginger",
+          "amount": "1 piece (4-inch)",
+          "preparation": "cut lengthwise into 2 slices"
+        },
+        {
+          "name": "napa cabbage",
+          "amount": "½ head",
+          "preparation": "quartered"
+        },
+        {
+          "name": "salt",
+          "amount": "1 tablespoon",
+          "preparation": ""
+        },
+        {
+          "name": "black pepper",
+          "amount": "1 tablespoon",
+          "preparation": ""
+        },
+        {
+          "name": "kombu seaweed",
+          "amount": "1 large piece",
+          "preparation": ""
+        },
+        {
+          "name": "water",
+          "amount": "12 cups",
+          "preparation": ""
+        }
+      ]
+    },
+    {
+      "label": "For the tare seasoning",
+      "ingredients": [
+        {
+          "name": "low-sodium tamari",
+          "amount": "⅓ cup",
+          "preparation": ""
+        },
+        {
+          "name": "tahini",
+          "amount": "½ cup",
+          "preparation": ""
+        },
+        {
+          "name": "red or white miso paste",
+          "amount": "2 tablespoons",
+          "preparation": ""
+        },
+        {
+          "name": "seasoned rice vinegar or mirin",
+          "amount": "1 tablespoon",
+          "preparation": ""
+        }
+      ]
+    },
+    {
+      "label": "For the noodles and toppings",
+      "ingredients": [
+        {
+          "name": "vegan ramen noodles",
+          "amount": "1 (12-ounce) package",
+          "preparation": ""
+        },
+        {
+          "name": "carrot",
+          "amount": "1",
+          "preparation": "grated or ribboned"
+        },
+        {
+          "name": "frozen corn",
+          "amount": "1 cup",
+          "preparation": "thawed and drained"
+        },
+        {
+          "name": "scallions",
+          "amount": "4",
+          "preparation": "sliced diagonally"
+        },
+        {
+          "name": "store-bought shredded vegan pork or vegan minced pork",
+          "amount": "1 cup",
+          "preparation": "warmed"
+        },
+        {
+          "name": "chili oil or sesame oil",
+          "amount": "3 teaspoons",
+          "preparation": ""
+        }
+      ]
+    }
+  ],
+  "instructionSteps": [
+    {
+      "step": 1,
+      "instructions": [
+        "For the broth, preheat oven to 450 degrees.",
+        "On large baking sheet, arrange onion, garlic, and sweet potatoes in a single layer.",
+        "Roast for 40 minutes, or until potatoes are cooked through and onions and garlic are charred."
+      ]
+    },
+    {
+      "step": 2,
+      "instructions": [
+        "Into a large stockpot with a lid over medium heat, warm vegetable oil.",
+        "Add mushrooms, celery, scallions, ginger, and cabbage and stir to combine.",
+        "Lightly smash 1 roasted garlic bulb and add to pot with roasted onion halves.",
+        "Cook for 10 minutes, or until vegetables are wilted.",
+        "Add salt, pepper, kombu, and water.",
+        "Bring to boil, lower heat, cover, and simmer for 1 hour."
+      ]
+    },
+    {
+      "step": 3,
+      "instructions": [
+        "For the tare seasoning, whisk all ingredients until smooth.",
+        "Set aside."
+      ]
+    },
+    {
+      "step": 4,
+      "instructions": [
+        "Into a large bowl, strain broth.",
+        "Reserve any intact garlic cloves and mushrooms and set aside.",
+        "Discard remaining solids, clean stockpot, and return broth to pot."
+      ]
+    },
+    {
+      "step": 5,
+      "instructions": [
+        "Into a blender, add ½ cup roasted sweet potatoes, 1 cup strained broth, remaining roasted garlic cloves (skins removed), plus any garlic cloves pulled from broth. Blend until smooth and cloudy. Add mixture to pot with broth."
+      ]
+    },
+    {
+      "step": 6,
+      "instructions": [
+        "For the noodles, bring broth to boil. Add noodles and reduce to simmer. Cook for 3 minutes."
+      ]
+    },
+    {
+      "step": 7,
+      "instructions": [
+        "To serve, place 2 tablespoons tare seasoning in each bowl. Top with 1 cup broth, and stir with chopsticks to mix. Depending on size of serving bowls, fill with 1½ cups of broth and a portion of noodles. Top each with carrot, corn, scallions, remaining sweet potato, and pork. Drizzle with chili or sesame oil."
+      ]
+    }
+  ],
+  "sidebars": []
+}
