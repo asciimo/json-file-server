@@ -1,6 +1,6 @@
 {
   "name": "json-file-server",
-  "version": "1.0.0",
+  "version": "0.2.1",
   "description": "An API to serve JSON files from disk.",
   "main": "index.js",
   "scripts": {
